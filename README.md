@@ -1,7 +1,7 @@
 ### Olá, eu sou Maria Clara Florêncio 👋
 
 - 🔭 I’m currently working on Front-End Developer
-- 🌱 I’m currently learning HTML, CSS, JAVASCRIPT, SQL AND NODEJS
+- 🌱 I’m currently learning HTML, CSS, JAVASCRIPT.
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: People often call me Flora because of my last name.
 
